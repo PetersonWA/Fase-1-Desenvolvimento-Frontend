@@ -96,11 +96,11 @@ Os componentes estão localizados no diretório `./src/Components` e possuem as 
 1. Certifique-se de ter o **Node.js** instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone [https://github.com/PetersonWA/Fase-1-Desenvolvimento-Frontend?tab=readme-ov-file]
    ```
 3. Navegue até o diretório do projeto:
    ```bash
-   cd peterson w. do amaral - fase 1 - desenvolvimento frontend
+   cd Fase-1-Desenvolvimento-Frontend
    ```
 4. Instale as dependências:
    ```bash
