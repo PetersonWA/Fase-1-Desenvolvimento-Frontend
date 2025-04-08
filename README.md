@@ -118,7 +118,21 @@ Os componentes estão localizados no diretório `./src/Components` e possuem as 
 
 Após executar o projeto, este é o resultado esperado no navegador:
 
-![Resultado esperado no navegador](./public/img/paginaInicial.jpg)(./public/img/sobre.jpg)(./public/img/livroscadastrados.jpg)(./public/img/cadastro.jpg)
+## Resultado Esperado
+
+Após executar o projeto, este é o resultado esperado no navegador:
+
+### Página Inicial
+![Página Inicial](./public/img/paginaInicial.jpg)
+
+### Página Sobre
+![Página Sobre](./public/img/sobre.jpg)
+
+### Lista de Livros Cadastrados
+![Livros Cadastrados](./public/img/livroscadastrados.jpg)
+
+### Página de Cadastro de Livros
+![Cadastro de Livros](./public/img/cadastro.jpg)
 
 ---
 
